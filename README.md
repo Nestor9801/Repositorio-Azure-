@@ -31,3 +31,5 @@ suscripción Azure.
  <img src = "https://user-images.githubusercontent.com/54288868/125181473-a30b4400-e1ca-11eb-9e6d-c93d41956c3d.png" width="300" class="center">
   </p>
 
+**Azure Marketplace:** Es una tienda online que contiene miles de aplicaciones de software de TI y servicios integrados 
+is an online store that contains thousands of IT software applications and services built by industry-leading technology .
