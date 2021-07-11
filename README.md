@@ -44,7 +44,7 @@ suscripción Azure.
  **Nube pública:** Servicios informáticos que se ofrecen  través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Servicios como 
  servidores y almacenamiento son propiedad de un proveedor de servicios en la nube de terceros, que los explota y los distribuye a través de Internet.
  
- **Nube privada:** Consta de recursos informáticos propios de una empresa que solo un usiario o la misma empresa usa en exclusiva, está puede estar localizada
+ **Nube privada:** Consta de recursos informáticos propios de una empresa que solo un usuario o la misma empresa usa en exclusiva, está puede estar localizada
  físicamente en un centro de datos local o estar hospedada por un porveedor de servicios de terceros.
  
  **Nube híbrida:** Una nube híbrida es un entorno informático que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre 
@@ -58,6 +58,22 @@ suscripción Azure.
 | Sin gastos de capital para escalar vericalmente| Se requiere de hardware para el inicio y mantenimiento  |  Proporciona maxima flexibilidad |
 | Aplicaciones pueden aprovisionarse y desaprovisionarme rápidamente | Control total de recursos y la seguridad | Se puede determinar donde se ejecutarán las aplicaciones |
 | Solo se paga por lo que se usa | Las organizaciones son responsables por del mantenimineto y actualizaciones del hardware | Se controla la seguridad, el cumplimiento o requisitos legales |
+
+### Conceptos de ventajas de informártica en la nube
+
+**Alta disponibilidad:** Esta en función de un nivel de acuerdo de servicio (SLA) por sus siglas en inglés. Este es un protocolo de diseño de sistemas que asegura
+absoluta continuidad operacional y proporciona al usuario una experiencia continua sin tiempo de inactividad perceptible, aunque se produzcan errores.
+
+**Escalabilidad vertical:** Aumento de la capacidad de proceso mediante la incorporación de RAM o CPU adicionales a una máquina virtual.
+
+**Escalabilidad horizontal:** Aumento de la capacidad de proceso mediante la adición de instancias de recursos, como la incorporación de máquinas virtuales a la configuración.
+
+**Elasticidad:** Capacidad que se tiene en la nube de crecer la infraestructura y los recursos de los que se dispone según las necesidades de tu empresa y así también reducirlas cuando ya no se requieran.
+
+**Agilidad:** Alta velocidad de implemntación y configuración de los recursos basados en la nube de acuerco con los requerimientos de la aplicación.
+
+**Distribución geográfica:** 
+
 
 
 
