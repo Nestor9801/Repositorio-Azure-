@@ -82,6 +82,17 @@ absoluta continuidad operacional y proporciona al usuario una experiencia contin
 
 **Agilidad:** Alta velocidad de implemntación y configuración de los recursos basados en la nube de acuerco con los requerimientos de la aplicación.
 
+### Gastos de capital y gastos operativos
+
+**Gastos de capital (Capital Expenditure o CapEx):**  Inversión previa de dinero en infraestructura física, que se podrá deducir a lo largo del tiempo. El costo previo de CapEx tiene un valor que disminuye con el tiempo.
+
+**Gastos de Operación (Operational Expenditure u OpEx):**  Es un modelo basado en el consumo. El dinero se invierte en servicios o productos y se factura al instánte.
+Se paga por lo que se usa.
+
+
+
+
+
 
 
 
