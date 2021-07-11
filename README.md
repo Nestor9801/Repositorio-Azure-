@@ -66,13 +66,21 @@ absoluta continuidad operacional y proporciona al usuario una experiencia contin
 
 **Escalabilidad vertical:** Aumento de la capacidad de proceso mediante la incorporación de RAM o CPU adicionales a una máquina virtual.
 
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/54288868/125206973-7fd6a800-e24f-11eb-9378-f01295f7317e.png" width ="300" class = "center">
+ </p>
+ 
 **Escalabilidad horizontal:** Aumento de la capacidad de proceso mediante la adición de instancias de recursos, como la incorporación de máquinas virtuales a la configuración.
+
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/54288868/125207085-f2478800-e24f-11eb-841f-c686e5e892f4.png" width ="300" class = "center">
+ </p>
 
 **Elasticidad:** Capacidad que se tiene en la nube de crecer la infraestructura y los recursos de los que se dispone según las necesidades de tu empresa y así también reducirlas cuando ya no se requieran.
 
 **Agilidad:** Alta velocidad de implemntación y configuración de los recursos basados en la nube de acuerco con los requerimientos de la aplicación.
 
-**Distribución geográfica:** 
+
 
 
 
