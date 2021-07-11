@@ -7,3 +7,19 @@ Este es un repositorio que nos ayudará a estudiar los conceptos de Azure para s
 
 ## Módulo 1: Descripción de los conceptos básicos de Azure 
 
+**Informática en la nube:** Es la prestación de servicios informáticos a través de internet. Normalmente solo se paga por los servicios 
+en la nube que se usan, lo que permite:
+
+- Reducir los costos operativos.
+- Ejecutar la infraestructura de forma más eficaz.
+- Escalar a medida que cambien las necesidades empresariales.
+
+
+
+**Azure:** Es un conjunto de servicios en la nube en expansión. Ofrece la libertad de compilar, administrar e implementar aplicaciones en una red
+global de masiva mediante sus herramientas y plataformas favoritas.
+
+
+
+
+
