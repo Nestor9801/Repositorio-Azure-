@@ -39,7 +39,7 @@ suscripción Azure.
  
  ## Módulo 2: Conceptos fundamentales de Azure
  
- ### Modelos de implementacioón de infromática en la nube
+ ### Modelos de implementacioón de informática en la nube
  
  **Nube pública:** Servicios informáticos que se ofrecen  través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Servicios como 
  servidores y almacenamiento son propiedad de un proveedor de servicios en la nube de terceros, que los explota y los distribuye a través de Internet.
