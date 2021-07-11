@@ -36,3 +36,19 @@ suscripción Azure.
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/54288868/125204496-4435e100-e243-11eb-8bb5-e4b2015bc6f1.png" width ="300" class = "center">
  </p>
+ 
+ ## Módulo 2: Conceptos fundamentales de Azure
+ 
+ ### Modelos de implementacioón de infromática en la nube
+ 
+ **Nube pública:** Servicios informáticos que se ofrecen  través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Servicios como 
+ servidores y almacenamiento son propiedad de un proveedor de servicios en la nube de terceros, que los explota y los distribuye a través de Internet.
+ 
+ **Nube privada:** Consta de recursos informáticos propios de una empresa que solo un usiario o la misma empresa usa en exclusiva, está puede estar localizada
+ físicamente en un centro de datos local o estar hospedada por un porveedor de servicios de terceros.
+ 
+ **Nube híbrida:** Una nube híbrida es un entorno informático que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre 
+ ellas.
+
+ 
+ 
