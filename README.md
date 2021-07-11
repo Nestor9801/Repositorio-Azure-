@@ -6,7 +6,9 @@ Este es un repositorio que nos ayudará a estudiar los conceptos de Azure para s
 
 ## Índice
 
+* [Módulo 1: Descripción de los conceptos básicos de Azure](#módulo-1-descripción-de-los-conceptos-básicos-de-azure)
 * [Módulo 2: Conceptos fundamentales de Azure](#módulo-2-conceptos-fundamentales-de-azure)
+* [Módulo 3: Descripción de los componentes principales de la arquitectura de Azure](#módulo-3-descripción-de-los-componentes-principales-de-la-arquitectura-de-Azure)
 
 
 
@@ -161,7 +163,7 @@ Se paga por lo que se usa.
  **Azure Resource Manager:** Es el servicio de implementación y administración para Azure. Proporciona una capa de administración que le permite crear, actualizar y eliminar recursos de la cuenta de Azure.
  
  
-<p><a href="https://www.oscarblancarteblog.com/2017/03/07/escalabilidad-horizontal-y-vertical/" target="_blank"> Suscripciones y grupos de administración de Azure</a> </p>
+<p><a href="https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/management-groups-subscriptions" target="_blank"> Suscripciones y grupos de administración de Azure</a> </p>
 
 
 
