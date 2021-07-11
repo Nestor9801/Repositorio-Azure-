@@ -50,5 +50,16 @@ suscripción Azure.
  **Nube híbrida:** Una nube híbrida es un entorno informático que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre 
  ellas.
 
- 
- 
+### Comparación de modelos de la nube
+
+
+| Nube pública | Nube privada | Nube híbrida |
+| ------------- | ------------- | ------------- |
+| Sin gastos de capital para escalar vericalmente| Se requiere de hardware para el inicio y mantenimiento  |  Proporciona maxima flexibilidad |
+| Aplicaciones pueden aprovisionarse y desaprovisionarme rápidamente | Control total de recursos y la seguridad | Se puede determinar donde se ejecutarán las aplicaciones |
+| Solo se paga por lo que se usa | Las organizaciones son responsables por del mantenimineto y actualizaciones del hardware | Se controla la seguridad, el cumplimiento o requisitos legales |
+
+
+
+
+
