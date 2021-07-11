@@ -116,6 +116,11 @@ Se paga por lo que se usa.
 |**Flexibilidad:** IaaS es el servicio en la nube más flexible, ya que se dispone de control para configurar y administrar el hardware que ejecuta una aplicación.  | **Productividad:** Los usuarios se pueden centrar únicamente en el desarrollo de aplicaciones, ya que el proveedor de nube lleva a cabo toda la administración de plataformas. | **Flexibilidad:** Los usuarios pueden acceder  los mismos datos de la aplicación desde cualquier lugar |
 
 
+### Inormática sin servidor
+
+**Informática sin servidor:** Es un modelo de desarrollo nativo de la nube que permite que los desarrolladores diseñen y ejecuten aplicaciones sin tener que gestionar servidores. El proveedor de servicios en la nube aprovisiona, escala y administra automáticamente la infraestructura necesaria para ejecutar el código.
+
+
 
 
 
