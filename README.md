@@ -26,5 +26,8 @@ global de masiva mediante sus herramientas y plataformas favoritas.
 
 **Azure Portal:** Interfaz gráfica de usuario basada en web que proporciona una alternativa a la línea de comandos en la cual puede administrar una 
 suscripción Azure.
-
+ 
+ <p align = "center">
+ <img src = "https://user-images.githubusercontent.com/54288868/125181473-a30b4400-e1ca-11eb-9e6d-c93d41956c3d.png" width="300" class="center">
+  </p>
 
