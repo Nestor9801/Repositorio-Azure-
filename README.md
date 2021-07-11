@@ -161,9 +161,7 @@ Se paga por lo que se usa.
  **Azure Resource Manager:** Es el servicio de implementación y administración para Azure. Proporciona una capa de administración que le permite crear, actualizar y eliminar recursos de la cuenta de Azure.
  
  
- 
- 
-
+<p><a href="https://www.oscarblancarteblog.com/2017/03/07/escalabilidad-horizontal-y-vertical/" target="_blank"> Suscripciones y grupos de administración de Azure</a> </p>
 
 
 
