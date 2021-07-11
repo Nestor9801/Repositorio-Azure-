@@ -123,17 +123,45 @@ Se paga por lo que se usa.
 
  ## Módulo 3: Descripción de los componentes principales de la arquitectura de Azure
  
- ## Suscripciones, grupos de administración y recursos de Azure
+ ### Suscripciones, grupos de administración y recursos de Azure
  
- **Recursos:** Son son instancias de servicios que puede crear, como máquinas virtuales, almacenamiento o bases de datos SQL.
+ **Recursos:** Son son instancias de servicios que puede crear, como máquinas virtuales, almacenamiento o bases de datos SQL. 
  
- **Grupos de recursos:** Contenedor lógico en el que se implementan y administran recursos de Azure como aplicaciones web, bases de datos y cuentas de almacenamiento.
+ **Grupos de recursos:** Contenedor lógico en el que se implementan y administran recursos de Azure como aplicaciones web, bases de datos y cuentas de almacenamiento. Es un contenedor lógico para recursos implementados en Azure
  
  **Suscripción:** Agrupa las cuentas de usuario y los recursos que han creaod las cuentas de usuario. Las organizaciones pueden usar las suscripciones para administrar los costos y los recursos creados por los usuarios, equipos o proyectos.
  
  **Grupos de administración:** Ayudan a la administración de acceso, directivas y el cumplimiento de varias suscripciones.
  
- ## Regiones de Azure
+ ### Regiones de Azure y Zonas de disponibilidad
+ 
+ **Región:** Es un área geográfica del planeta que contiene al menos un centro de datos, aunque podrían ser varios centros de datos cercanos y conectados mediante una red de baja latencia
+ 
+ **Zonas de disponibilidad:** Son centros de datos separados físicamente dentro de una región de Azure. Una zona de disponibilidad se configura para constituir un límite de aislamiento. Si una zona deja de funcionar, la otra continúa trabajando.
+ 
+ <p align = "center">
+<img src = "https://user-images.githubusercontent.com/54288868/125212731-094ca100-e275-11eb-9c29-fdfe3c1147ba.png" width ="300" class = "center">
+ </p>
+ 
+ **Par de regiones:** Es el emparejamiento de una región Azure con otra de la misma zona geográfica, estas permite la replicación de recursos, como el almacenamiento en la máquina virtual, en una zona geográfica, lo que ayuda a reducir la probabilidad de que se produzcan interrupciones provocadas por eventos como desastres naturales, disturbios civiles, cortes del suministro eléctrico o interrupciones de la red física que afecten de forma simultánea a ambas regiones. 
+ 
+ 
+ ## Recursos de Azure y Azure Resource Manager
+ 
+ ### Grupos de recursos de Azure 
+ 
+ **Agrupación lógica:** Proporciona orden y organización a los recursos que cree en Azure. La agrupación lógica es el aspecto que más le interesa, ya que, entre los recursos, el desorden es elevado.
+ 
+ **Ciclo de vida:** Se refiere al tiempo determinado que un grupo de recursos está en ejecución y son útiles generalmente en desarrollo de pruebas.
+ 
+ **RBAC (Control de acceso basado en roles):** Facilita la administración y limita el acceso para permitir solo lo que sea necesario.
+ 
+ ## Azure Resource Manager 
+ 
+ **Azure Resource Manager:** Es el servicio de implementación y administración para Azure. Proporciona una capa de administración que le permite crear, actualizar y eliminar recursos de la cuenta de Azure.
+ 
+ 
+ 
  
 
 
