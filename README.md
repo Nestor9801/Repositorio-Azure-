@@ -75,6 +75,8 @@ absoluta continuidad operacional y proporciona al usuario una experiencia contin
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/54288868/125207085-f2478800-e24f-11eb-841f-c686e5e892f4.png" width ="300" class = "center">
  </p>
+ 
+ <p><a href="https://www.oscarblancarteblog.com/2017/03/07/escalabilidad-horizontal-y-vertical/" target="_blank"> [Enlace]</a> Retroalimentación de escalabilidad</p>
 
 **Elasticidad:** Capacidad que se tiene en la nube de crecer la infraestructura y los recursos de los que se dispone según las necesidades de tu empresa y así también reducirlas cuando ya no se requieran.
 
