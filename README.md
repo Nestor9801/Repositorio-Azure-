@@ -89,6 +89,26 @@ absoluta continuidad operacional y proporciona al usuario una experiencia contin
 **Gastos de Operación (Operational Expenditure u OpEx):**  Es un modelo basado en el consumo. El dinero se invierte en servicios o productos y se factura al instánte.
 Se paga por lo que se usa.
 
+### Modelos de servicio en la nube
+
+**IaaS (Infraestructre as a Service o infraestructura como servicio):** Es un modelo de servicio en la nube que es más similar a la administración de servidores físicos, un proveedor de servicios en la nube mantendrá actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red serán su responsabilidad como inquilino de nube. 
+
+**PaaS (Platform as a Service o Plataforma como servicio):** Este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. 
+
+**SaaS (Software as a Service o Software como servicio):** En este modelo de servicio en la nube, el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de servicios en la nube.
+
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/54288868/125208660-77836a80-e259-11eb-8753-a66da7c3f2ec.png" width ="400" class = "center">
+ </p>
+
+### Ventajas de  modelos de servicio 
+
+| IaaS | PaaS| SaaS|
+| ------------- | ------------- | ------------- |
+|Sin gastos de capital (CapEx) | Sin gastos de capital (CapEx) | Sin gastos de capital (CapEx)|
+| Configuración de aplicaciones con rapidez para que sean accesibles y desaprovisionarlas cuando sea necesario | PaaS es más ágil que IaaS, y no es necesario que los usuarios configuren servidores para ejecutar aplicaciones| Los usuarios pueden proporcionar al personal acceso al software más reciente de forma fácil y rápida.|
+| Modelo basaso en el consumo (OpEx)  | Modelo basaso en el consumo (OpEx) | Modelo de precio de pago por uso |
+|**Flexibilidad:** IaaS es el servicio en la nube más flexible, ya que se dispone de control para configurar y administrar el hardware que ejecuta una aplicación.  | **Productividad:** Los usuarios se pueden centrar únicamente en el desarrollo de aplicaciones, ya que el proveedor de nube lleva a cabo toda la administración de plataformas. | **Flexibilidad:** Los usuarios pueden acceder  los mismos datos de la aplicación desde cualquier lugar |
 
 
 
