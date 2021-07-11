@@ -121,7 +121,20 @@ Se paga por lo que se usa.
 **Informática sin servidor:** Es un modelo de desarrollo nativo de la nube que permite que los desarrolladores diseñen y ejecuten aplicaciones sin tener que gestionar servidores. El proveedor de servicios en la nube aprovisiona, escala y administra automáticamente la infraestructura necesaria para ejecutar el código.
 
 
-
+ ## Módulo 3: Descripción de los componentes principales de la arquitectura de Azure
+ 
+ ## Suscripciones, grupos de administración y recursos de Azure
+ 
+ **Recursos:** Son son instancias de servicios que puede crear, como máquinas virtuales, almacenamiento o bases de datos SQL.
+ 
+ **Grupos de recursos:** Contenedor lógico en el que se implementan y administran recursos de Azure como aplicaciones web, bases de datos y cuentas de almacenamiento.
+ 
+ **Suscripción:** Agrupa las cuentas de usuario y los recursos que han creaod las cuentas de usuario. Las organizaciones pueden usar las suscripciones para administrar los costos y los recursos creados por los usuarios, equipos o proyectos.
+ 
+ **Grupos de administración:** Ayudan a la administración de acceso, directivas y el cumplimiento de varias suscripciones.
+ 
+ ## Regiones de Azure
+ 
 
 
 
