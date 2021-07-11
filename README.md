@@ -19,7 +19,6 @@ en la nube que se usan, lo que permite:
 **Azure:** Es un conjunto de servicios en la nube en expansión. Ofrece la libertad de compilar, administrar e implementar aplicaciones en una red
 global de masiva mediante sus herramientas y plataformas favoritas.
 
-
-
-
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54288868/125181255-bc12f580-e1c8-11eb-8e59-6e735255a21b.png" width="500" class="center">
+</p>
