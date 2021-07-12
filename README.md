@@ -8,6 +8,13 @@ Este es un repositorio que nos ayudará a estudiar los conceptos de Azure para s
 
 * [Módulo 1: Descripción de los conceptos básicos de Azure](#módulo-1-descripción-de-los-conceptos-básicos-de-azure)
 * [Módulo 2: Conceptos fundamentales de Azure](#módulo-2-conceptos-fundamentales-de-azure)
+	- [Modelos de implementación de informática en la nube](#modelos-de-implementación-de-informática-en-la-nube)
+	- [Comparación de modelos de la nube](#comparación-de-modelos-de-la-nube)
+	- [Conceptos de ventajas de informártica en la nube](#conceptos-de-ventajas-de-informártica-en-la-nube)
+	- [Gastos de capital y gastos operativos](#gastos-de-capital-y-gastos-operativos)
+	- [Modelos de servicio en la nube](#modelos-de-servicio-en-la-nube)
+	- [Ventajas de modelos de servicio](#ventajas-de-modelos-de-servicio)
+	- [Informática sin servidor](#informática-sin-servidor)
 * [Módulo 3: Descripción de los componentes principales de la arquitectura de Azure](#módulo-3-descripción-de-los-componentes-principales-de-la-arquitectura-de-Azure)
 
 
@@ -46,7 +53,7 @@ suscripción Azure.
  
  ## Módulo 2: Conceptos fundamentales de Azure
  
- ### Modelos de implementacioón de informática en la nube
+ ### Modelos de implementación de informática en la nube
  
  **Nube pública:** Servicios informáticos que se ofrecen  través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Servicios como 
  servidores y almacenamiento son propiedad de un proveedor de servicios en la nube de terceros, que los explota y los distribuye a través de Internet.
@@ -108,7 +115,7 @@ Se paga por lo que se usa.
 <img src = "https://user-images.githubusercontent.com/54288868/125208660-77836a80-e259-11eb-8753-a66da7c3f2ec.png" width ="400" class = "center">
  </p>
 
-### Ventajas de  modelos de servicio 
+### Ventajas de modelos de servicio 
 
 | IaaS | PaaS| SaaS|
 | ------------- | ------------- | ------------- |
@@ -118,7 +125,7 @@ Se paga por lo que se usa.
 |**Flexibilidad:** IaaS es el servicio en la nube más flexible, ya que se dispone de control para configurar y administrar el hardware que ejecuta una aplicación.  | **Productividad:** Los usuarios se pueden centrar únicamente en el desarrollo de aplicaciones, ya que el proveedor de nube lleva a cabo toda la administración de plataformas. | **Flexibilidad:** Los usuarios pueden acceder  los mismos datos de la aplicación desde cualquier lugar |
 
 
-### Inormática sin servidor
+### Informática sin servidor
 
 **Informática sin servidor:** Es un modelo de desarrollo nativo de la nube que permite que los desarrolladores diseñen y ejecuten aplicaciones sin tener que gestionar servidores. El proveedor de servicios en la nube aprovisiona, escala y administra automáticamente la infraestructura necesaria para ejecutar el código.
 
