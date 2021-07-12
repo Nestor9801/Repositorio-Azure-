@@ -15,7 +15,10 @@ Este es un repositorio que nos ayudará a estudiar los conceptos de Azure para s
 	- [Modelos de servicio en la nube](#modelos-de-servicio-en-la-nube)
 	- [Ventajas de modelos de servicio](#ventajas-de-modelos-de-servicio)
 	- [Informática sin servidor](#informática-sin-servidor)
-* [Módulo 3: Descripción de los componentes principales de la arquitectura de Azure](#módulo-3-descripción-de-los-componentes-principales-de-la-arquitectura-de-Azure)
+* [Módulo 3: Descripción de los componentes principales de la arquitectura de Azure](#módulo-3-descripción-de-los-componentes-principales-de-la-arquitectura-de-azure)
+	- [Suscripciones, grupos de administración y recursos de Azurer](#suscripciones-grupos-de-administración-y-recursos-de-azure)
+	- [Regiones de Azure y Zonas de disponibilidad](#regiones-de-azure-y-zonas-de-disponibilidad)
+	- [Recursos de Azure y Azure Resource Manager](#recursos-de-azure-y-azure-resource-manager)
 
 
 
