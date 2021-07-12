@@ -1,4 +1,4 @@
-# Repositorio de repaso para certificación AZ-900
+# Reto Master: Repositorio de Repaso con conceptos básicos para la certificación AZ-900
 
 ![Cloud](https://user-images.githubusercontent.com/54288868/125151642-439b2e80-e10d-11eb-8725-c198bb1df06d.jpg)
 
